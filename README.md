@@ -1,5 +1,7 @@
 # Strategies to Minimize Out-of-Distribution Effects in Data-Driven MRS Quantification
 
+[Strategies to Minimize Out-of-Distribution Effects in Data-Driven MRS Quantification](https://arxiv.org/abs/2511.23135)
+
 ## Abstract
 
 **Purpose:** This study systematically compared data-driven and model-based strategies for metabolite quantification in magnetic resonance spectroscopy (MRS), focusing on resilience to out-of-distribution (OoD) effects and the balance between accuracy, robustness, and generalizability.
